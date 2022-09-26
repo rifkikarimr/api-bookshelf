@@ -1,2 +1,2 @@
 # BOOKSHELF API
-project for my class in bangkit academy 2022
+API with CRUD feature for bookshelf
